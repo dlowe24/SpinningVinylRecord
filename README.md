@@ -5,9 +5,9 @@ This is a NodeJs implementation of combining an audio file with a image and have
 
 Edit the following variables in app.js
 
-1. Change the img_path variable to the location of the image file
-
-2. convert.imgToVideo('Path',233) -> Second prameter controls the duration of the spinning effect
+1. Change the img_path variable to the location of the image file.
+.
+2. convert.imgToVideo('Path',233) -> Second prameter controls the duration of the spinning effect in seconds.
 
 3. Change the audio_path variable to the location of the audio file. 
 
