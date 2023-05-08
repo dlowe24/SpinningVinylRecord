@@ -2,7 +2,7 @@ const convert = require('./mods/utilities.js');
 // var command = new FfmpegCommand();
 
 async function main() {
-    var img_path = '/Users/daisonlowe/Projects/vinyl/images/il_570xN.1845557469_8zek.png';
+    var img_path = 'il_570xN.1845557469_8zek.png';
 
     var img = await convert.imgToCircle(img_path);
 
