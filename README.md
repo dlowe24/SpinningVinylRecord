@@ -11,4 +11,6 @@ Edit the following variables in app.js
 
 3. Change the audio_path variable to the location of the audio file. 
 
-Run node app.js and it converts and places the final output inside merge_outputs directory. 
+Run npm install and then node app.js. 
+
+It converts and places the final output inside merge_outputs directory. 
