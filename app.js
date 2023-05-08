@@ -8,7 +8,7 @@ async function main() {
 
     var results = await convert.imgToVideo(img,233);
 
-    var audio_path = 'audio/Housecall.m4a' ;
+    var audio_path = 'Housecall.m4a' ;
 
     var finaloutput = await convert.mergeall(audio_path,results);
 
